@@ -21,7 +21,12 @@ Add Product	Edit Product
 🏗️ Project Structure
 ![image alt](https://github.com/annz-gif/Crud-App/blob/4cd20274e6a0861b463604c8ff92692995f6ec7d/Screenshot%20(38).png)
 
+updation :
+![image alt](https://github.com/annz-gif/Crud-App/blob/1e9ff65692cbb2e7d11543568b3da93eb2d29415/Screenshot%20(41).png)
+
 ![image alt](https://github.com/annz-gif/Crud-App/blob/bff97dad53d86e721436b3f747b13490328d4cf1/Screenshot%20(39).png)
+Deletion:
+
 # ⚡ Setup Instructions
  Clone the repository:
 bash
