@@ -1,6 +1,11 @@
 # CRUD Application with Next.js 14 and MongoDB
 An end-to-end CRUD (Create, Read, Update, Delete) web application built with Next.js 14, MongoDB, and Tailwind CSS. The app lets users manage products, featuring dynamic routing, API integration, and a sleek responsive UI.
+
+
+
 ![image alt](https://github.com/annz-gif/Crud-App/blob/9e346abc8e97e313952601f0425cb8b23e0041c9/Screenshot%20(40).png)
+
+
 🔧 Framework: Next.js 14
 📂 Database: MongoDB
 🎨 Styling: Tailwind CSS
@@ -16,7 +21,7 @@ Add Product	Edit Product
 🏗️ Project Structure
 ![image alt](https://github.com/annz-gif/Crud-App/blob/4cd20274e6a0861b463604c8ff92692995f6ec7d/Screenshot%20(38).png)
 ⚡ Setup Instructions
-Clone the repository:
+# Clone the repository:
 bash
 Copy
 Edit
@@ -71,11 +76,11 @@ Full-stack development with Next.js.
 Connecting MongoDB using Mongoose.
 Dynamic routing, server actions, and API handling.
 Styling with Tailwind CSS and modern design patterns.
-🤩 Future Improvements
+# 🤩 Future Improvements
 Image Uploads: Add support for product images.
 Pagination & Search: Improve the product listing UX.
 Authentication: Secure routes with user login.
-🤝 Contributing
+# 🤝 Contributing
 Fork the repository
 Create a feature branch:
 bash
