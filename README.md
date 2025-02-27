@@ -5,12 +5,12 @@ An end-to-end CRUD (Create, Read, Update, Delete) web application built with Nex
 📂 Database: MongoDB
 🎨 Styling: Tailwind CSS
 
-🚀 Features
+# 🚀 Features
 Product Management: Add, view, edit, and delete products.
 API Routes: Handle data operations with serverless API functions.
 Dynamic Routing: Edit products using dynamic routes.
 Stylish UI: Gradient backgrounds with pastel buttons.
-🖼️ Screenshots
+
 Home Page	Product List
 Add Product	Edit Product
 🏗️ Project Structure
@@ -41,17 +41,17 @@ Edit
 npm run dev
 Visit: http://localhost:3000
 
-Build for production (if deploying):
+# Build for production (if deploying):
 bash
 Copy
 Edit
 npm run build
-🚀 Deployment (Vercel)
+# 🚀 Deployment (Vercel)
 Push your code to GitHub.
 Connect your repository to Vercel.
 Add environment variables in Vercel Dashboard → Settings → Environment Variables.
 Trigger a deployment — and you're live! 🎉
-🛠️ API Routes
+# 🛠️ API Routes
 Method	Endpoint	Description
 GET	/api/products	Get all products
 POST	/api/products	Add a new product
@@ -66,7 +66,7 @@ fetch('/api/products', {
   method: 'POST',
   body: JSON.stringify({ name: 'New Product', price: 100 }),
 });
-🚀 What You’ll Learn
+# 🚀 What You’ll Learn
 Full-stack development with Next.js.
 Connecting MongoDB using Mongoose.
 Dynamic routing, server actions, and API handling.
@@ -93,10 +93,10 @@ Copy
 Edit
 git push origin feature-name
 Create a Pull Request
-📜 License
+# 📜 License
 This project is licensed under the MIT License.
 
-✨ Author
+#✨ Author
 👩‍💻 Developed by Aanshi Rakesh Kumar
 🔗 GitHub: annz-gif
 
