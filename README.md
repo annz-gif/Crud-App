@@ -25,7 +25,8 @@ Add Product	Edit Product
 ![image alt](https://github.com/annz-gif/Crud-App/blob/1e9ff65692cbb2e7d11543568b3da93eb2d29415/Screenshot%20(41).png)
 
 ![image alt](https://github.com/annz-gif/Crud-App/blob/bff97dad53d86e721436b3f747b13490328d4cf1/Screenshot%20(39).png)
-Deletion:
+# Deletion:
+![image alt](https://github.com/annz-gif/Crud-App/blob/f420a759e7c6777493f7dc36535f587fd83f9f12/Screenshot%20(42).png)
 
 # ⚡ Setup Instructions
  Clone the repository:
