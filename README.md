@@ -14,7 +14,7 @@ Stylish UI: Gradient backgrounds with pastel buttons.
 Home Page	Product List
 Add Product	Edit Product
 🏗️ Project Structure
-
+![image alt](https://github.com/annz-gif/Crud-App/blob/4cd20274e6a0861b463604c8ff92692995f6ec7d/Screenshot%20(38).png)
 ⚡ Setup Instructions
 Clone the repository:
 bash
