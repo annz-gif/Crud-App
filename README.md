@@ -120,4 +120,3 @@ This project is licensed under the MIT License.
 👩‍💻 Developed by Aanshi Rakesh Kumar
 🔗 GitHub: annz-gif
 
-Would you like me to generate images for the sections (like buttons, UI cards) or guide you on how to capture your app screens? Let me know — we’ll make this README shine! ✨ 🚀
