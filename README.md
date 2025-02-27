@@ -14,27 +14,7 @@ Stylish UI: Gradient backgrounds with pastel buttons.
 Home Page	Product List
 Add Product	Edit Product
 🏗️ Project Structure
-vbnet
-Copy
-Edit
-crud-app/
-├── app/
-│   ├── page.js                 → Home page
-│   ├── products/
-│   │   └── page.js             → Product listing page
-│   ├── addProduct/
-│   │   └── page.js             → Add product page
-│   ├── editProduct/[id]/
-│   │   └── page.js             → Edit product page (dynamic routing)
-│   ├── api/
-│   │   └── products/
-│   │       ├── route.js        → API for CRUD operations
-├── components/
-│   ├── ProductCard.js          → UI component for product cards
-│   └── ProductsList.js         → Component to list products
-├── public/images/              → Store UI images
-├── styles/                     → Global and component-specific styles
-└── next.config.js              → Next.js configuration
+
 ⚡ Setup Instructions
 Clone the repository:
 bash
